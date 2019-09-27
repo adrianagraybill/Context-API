@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/adrianagraybill/lab-Context-API/pull/1)
-* [practice lab] (https://github.com/adrianagraybill/Lab-33-Practice.git)
+* [practice lab](https://github.com/adrianagraybill/Lab-33-Practice.git)
 
 ### Modules
 #### `app.js`
