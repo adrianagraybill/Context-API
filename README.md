@@ -30,4 +30,4 @@
   * complete - boolean
 
 #### UML
-![Whiteboard](./assets/image.png)
+![Whiteboard](./assets/image.jpg)
